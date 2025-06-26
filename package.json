@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare-bypass",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bypass Cloudflare challenge using puppeteer-core and Scrapeless.",
+  "main": "cloudflare_bypass.js",
+  "scripts": {
+    "start": "node cloudflare_bypass.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^22.0.0"
+  }
+} 
